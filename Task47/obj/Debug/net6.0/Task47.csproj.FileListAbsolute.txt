@@ -1,0 +1,15 @@
+C:\Users\2\Desktop\Lesson7\Task47\bin\Debug\net6.0\Task47.exe
+C:\Users\2\Desktop\Lesson7\Task47\bin\Debug\net6.0\Task47.deps.json
+C:\Users\2\Desktop\Lesson7\Task47\bin\Debug\net6.0\Task47.runtimeconfig.json
+C:\Users\2\Desktop\Lesson7\Task47\bin\Debug\net6.0\Task47.dll
+C:\Users\2\Desktop\Lesson7\Task47\bin\Debug\net6.0\Task47.pdb
+C:\Users\2\Desktop\Lesson7\Task47\obj\Debug\net6.0\Task47.csproj.AssemblyReference.cache
+C:\Users\2\Desktop\Lesson7\Task47\obj\Debug\net6.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2\Desktop\Lesson7\Task47\obj\Debug\net6.0\Task47.AssemblyInfoInputs.cache
+C:\Users\2\Desktop\Lesson7\Task47\obj\Debug\net6.0\Task47.AssemblyInfo.cs
+C:\Users\2\Desktop\Lesson7\Task47\obj\Debug\net6.0\Task47.csproj.CoreCompileInputs.cache
+C:\Users\2\Desktop\Lesson7\Task47\obj\Debug\net6.0\Task47.dll
+C:\Users\2\Desktop\Lesson7\Task47\obj\Debug\net6.0\refint\Task47.dll
+C:\Users\2\Desktop\Lesson7\Task47\obj\Debug\net6.0\Task47.pdb
+C:\Users\2\Desktop\Lesson7\Task47\obj\Debug\net6.0\Task47.genruntimeconfig.cache
+C:\Users\2\Desktop\Lesson7\Task47\obj\Debug\net6.0\ref\Task47.dll
